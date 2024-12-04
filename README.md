@@ -29,10 +29,12 @@ Key Libraries Used
 Numpy & Pandas: Data manipulation and analysis.
 NLTK: Text preprocessing (e.g., stopwords, stemming).
 Scikit-learn: Machine learning model implementation and evaluation.
-Result
+
 
 Results
+
 Training Accuracy: 0.9863581730769231
+
 Testing Accuracy: 0.9790865384615385
 
 
